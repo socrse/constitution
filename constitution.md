@@ -403,7 +403,9 @@ Software Engineering (The “Society”)
 
         * (a) if he or she is under the age of 16 years; or
 
-        * (b) if he or she would automatically cease to hold office under the provisions of clause 15.1.6.
+        * (b) if he or she would automatically cease to hold office under the provisions of clause 15.1.6; or
+
+        * (c) if in the period of six years prior to the proposed appointment he or she has been removed from office under clause 15.1.5.
 
     * 12.2.3 No one is entitled to act as a charity trustee whether on appointment or on any re- appointment until he or she has expressly acknowledged, in whatever way the charity trustees decide, his or her acceptance of the office of charity trustee.
 
