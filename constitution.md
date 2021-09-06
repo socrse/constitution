@@ -245,6 +245,8 @@ Software Engineering (The “Society”)
 
     * 10.4.2 Any decision to wind up or dissolve the CIO must be taken in accordance with clause 29 (Voluntary winding up or dissolution). Any decision to amalgamate or transfer the undertaking of the CIO to one or more other CIOs must be taken in accordance with the provisions of the Charities Act 2011.
 
+    * 10.4.3 Any decision by the members of the CIO to remove a charity trustee must be taken in accordance with clause 15.2.
+
 ## 11 GENERAL MEETINGS OF MEMBERS
 
 * 11.1 Types of general meeting
