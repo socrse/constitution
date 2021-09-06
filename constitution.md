@@ -429,7 +429,7 @@ Software Engineering (The “Society”)
 
         Mr Robert Haines;
 
-        Dr Sumon Hettrick;
+        Dr Simon Hettrick;
 
         Dr Matthew Johnson;
 
