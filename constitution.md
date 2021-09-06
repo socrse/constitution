@@ -307,7 +307,7 @@ Software Engineering (The “Society”)
 
 * 11.4 Chairing of general meetings
 
-    * 11.4.1 The person nominated as chair by the charity trustees under clause 19.2, shall, if present at the general meeting and willing to act, preside as chair of the meeting. Subject to that, the members of the CIO who are present at a general meeting shall elect a chair to preside at the meeting.
+    * 11.4.1 The person nominated as President by the charity trustees under clause 19.2, shall, if present at the general meeting and willing to act, preside as chair of the meeting. Subject to that, the members of the CIO who are present at a general meeting shall elect a chair to preside at the meeting.
 
 * 11.5 Quorum at general meetings
 
@@ -521,7 +521,7 @@ Software Engineering (The “Society”)
 
 * 19.2 Chairing of meetings
 
-    * 19.2.1 The charity trustees may appoint one of their number to chair their meetings and may at any time revoke such appointment. If no-one has been so appointed, or if the person appointed is unwilling to preside or is not present within 15 minutes after the time of the meeting, the charity trustees present may appoint one of their number to chair that meeting.
+    * 19.2.1 The charity trustees may appoint one of their number as President to chair their meetings and may at any time revoke such appointment. If no-one has been so appointed, or if the person appointed is unwilling to preside or is not present within 15 minutes after the time of the meeting, the charity trustees present may appoint one of their number to chair that meeting.
 
 * 19.3 Procedure at meetings
 
