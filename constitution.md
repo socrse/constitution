@@ -453,7 +453,7 @@ Software Engineering (The “Society”)
 
 * 13.2 The charity trustees to retire by rotation shall be those who have been longest in office since their last appointment or reappointment. If any trustees were last appointed or reappointed on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot;
 
-* 13.3 The vacancies so arising may be filled by the decision of the members at the annual general meeting; any vacancies not filled at the annual general meeting may be filled as provided in clause 13.4;
+* 13.3 Trustee vacancies may be filled by the decision of the members at the annual general meeting; any vacancies not filled at the annual general meeting may be filled as provided in clause 13.4;
 
 * 13.4 The members or the charity trustees may at any time decide to appoint a new charity trustee, whether in place of a charity trustee who has retired or been removed in accordance with clause 15, or as an additional charity trustee, provided that the limit specified in clause 12.3 on the number of charity trustees would not as a result be exceeded.
 
