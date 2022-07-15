@@ -487,7 +487,7 @@ Software Engineering (The “Society”)
 
 * 15.2 A charity trustee shall be removed from office if a resolution to remove that trustee is proposed at a general meeting of the members called for that purpose and properly convened in accordance with clause 11, and the resolution is passed by a majority of votes cast at the meeting.
 
-* 15.3 A resolution to remove a charity trustee in accordance with this clause shall not take effect unless the individual concerned has been given at least 14 clear days’ notice in writing that the resolution is to be proposed, specifying the circumstances alleged to justify removal from office, and has been given a reasonable opportunity of making oral and/or written representations to the members of the CIO.
+* 15.3 A resolution to remove a charity trustee in accordance with clause 15.2 shall not take effect unless the individual concerned has been given at least 14 clear days’ notice in writing that the resolution is to be proposed, specifying the circumstances alleged to justify removal from office, and has been given a reasonable opportunity of making oral and/or written representations to the members of the CIO.
 
 ## 16 REAPPOINTMENT OF CHARITY TRUSTEES
 
