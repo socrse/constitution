@@ -449,7 +449,7 @@ Software Engineering (The “Society”)
 
 ## 13 APPOINTMENT OF CHARITY TRUSTEES
 
-* 13.1 At every annual general meeting of the members of the CIO, one half of the charity trustees shall retire from office. If the number of charity trustees is not a multiple of two, then the number of trustees to retire shall not exceed one-half of all trustees;
+* 13.1 At every annual general meeting of the members of the CIO, one third of the charity trustees shall retire from office. If the number of charity trustees is not a multiple of three, then the number of trustees required to retire shall not exceed one third of all trustees;
 
 * 13.2 The charity trustees to retire by rotation shall be those who have been longest in office since their last appointment or reappointment. If any trustees were last appointed or reappointed on the same day those to retire shall (unless they otherwise agree among themselves) be determined by lot;
 
