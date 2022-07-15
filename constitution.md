@@ -247,6 +247,8 @@ Software Engineering (The “Society”)
 
     * 10.4.3 Any decision by the members of the CIO to remove a charity trustee must be taken in accordance with clause 15.2.
 
+    * 10.4.4 Any decision by the members to elect trustees of the CIO may be performed using a single-transferable vote based on a ranked-choice list of candidates. In this case, the specific version of single transferable vote used to choose the winners must be provided at the time that the voting opens.
+
 ## 11 GENERAL MEETINGS OF MEMBERS
 
 * 11.1 Types of general meeting
