@@ -469,15 +469,17 @@ Software Engineering (The “Society”)
 
     * 15.1.1 retires by notifying the CIO in writing (but only if enough charity trustees will remain in office when the notice of resignation takes effect to form a quorum for meetings);
 
-    * 15.1.2 is absent without the permission of the charity trustees from all their meetings held within a period of six months and the trustees resolve that his or her office be vacated;
+    * 15.1.2 is absent without the permission of the charity trustees from all their meetings held within a period of four months and the trustees resolve that his or her office be vacated;
 
     * 15.1.3 dies;
 
     * 15.1.4 in the written opinion of a registered medical practitioner treating that person, has become physically or mentally incapable of acting as a trustee and may remain so for more than three months;
 
-    * 15.1.5 is removed by the members of the CIO in accordance with clause 15.2; or
+    * 15.1.5 is removed by the members of the CIO in accordance with clause 15.2;
 
-    * 15.1.6 is disqualified from acting as a charity trustee by virtue of section 178-180 of the Charities Act 2011 (or any statutory re-enactment or modification of that provision).
+    * 15.1.6 is disqualified from acting as a charity trustee by virtue of section 178-180 of the Charities Act 2011 (or any statutory re-enactment or modification of that provision); or
+
+    * 15.1.7 is removed by a resolution passed by a majority of the other charity trustees for breaching their duties as a charity trustee, or for breaching the charity trustees' Code of Conduct (if any), or if a majority of the other charity trustees reasonably believe that their removal as a charity trustee is in the best interests of the CIO. Before passing a resolution in accordance with this clause, the other charity trustees shall first invite the view of the charity trustee concerned and have considered the matter in light of any such views.
 
 * 15.2 A charity trustee shall be removed from office if a resolution to remove that trustee is proposed at a general meeting of the members called for that purpose and properly convened in accordance with clause 11, and the resolution is passed by a majority of votes cast at the meeting.
 
