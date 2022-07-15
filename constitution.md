@@ -165,7 +165,7 @@ Software Engineering (The “Society”)
 
 * 9.3 Duty of members
 
-    It is the duty of each member of the CIO to exercise his or her powers as a member of the CIO in the way he or she decides in good faith would be most likely to further the purposes of the CIO and abide by the CIO membership best practices document.
+    It is the duty of each member of the CIO to exercise his or her powers as a member of the CIO in the way he or she decides in good faith would be most likely to further the purposes of the CIO and abide by the CIO membership code of conduct and any applicable published policies.
 
 * 9.4 Termination of membership
 
@@ -179,7 +179,7 @@ Software Engineering (The “Society”)
 
         * (d) the charity trustees decide that it is in the best interests of the CIO that the member in question should be removed from membership, and pass a resolution to that effect; or
 
-        * (e) the charity trustees decide that the member fails to follow practices described in the membership best practices document, and pass a resolution to that effect.
+        * (e) the charity trustees decide that the member fails to follow practices described in the membership code of conduct, and pass a resolution to terminate membership.
 
     * 9.4.2 Before the charity trustees take any decision to remove someone from membership of the CIO they must:
 
